@@ -1,0 +1,28 @@
+1.Step - Find encryption of small
+The code “small” contains five letters. The according number (814261515) contains nine letters. It is flashy that the last two digits are repeated in the number. In the code “small” the last two characters (L L) are equal as in the number (… 15 15). If the numbers get grouped into pairs of two it looks like:
+
+Code .............................. Comment
+
+S|M| A| L| L .......... // code
+8|14|26|15|15 .......... // number
+(The character | is used as a separator here. // is used for comments.)
+The 15. character in the Latin alphabet is “O”, so it is obviously not a simple character to number translation (A=1, B=2, C=3, …). But as you can see the highest value is 26 which represents A. So, in the next step lets subtract 26 from every value to achieve that A becomes the first value. After that we can add one and translate the corresponding numbers back into characters.
+
+Code .............................. Comment
+
+8|14|26|15|15 .......... // calculate 26 – value
+18|12| 0|11|11 .......... // calculate value + 1
+19|13| 1|12|12 .......... // translate numbers to chars
+S| M |A| L| L .......... // decrypted code
+2.Step - Encrypt FarAway
+Since there are no underscores in the alphabet, they were ignored. The encryption process is simply the decryption process in reverse order.
+
+Code .............................. Comment
+
+Far_Away .......... // upper case and add separators
+F|A| R|_|A|W|A|Y .......... // translate from characters to numbers (A=1, B=2, C=3, …)
+6| 1|18|_|1|23|1|25 .......... // calculate value -1
+5 |0|17|_|0|22|0|24 .......... // calculate 26 – value
+21|26|9|_|26|4|26|2 .......... // remove separators
+21269_264262 .......... // encrypted code
+Therefore, the flag is: infernoCTF{21269_264262}

@@ -1,0 +1,7 @@
+{
+    "user": "admin"
+}
+
+secret: ilovepico
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4iLCJpYXQiOjE1NzU4Mjk4NjR9.CkTNqCshefc5CtYj708SDwno_GP2eSLiM1U4tKi9Pwo

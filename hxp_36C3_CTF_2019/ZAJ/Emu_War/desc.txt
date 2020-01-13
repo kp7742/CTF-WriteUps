@@ -1,0 +1,12 @@
+Description:
+Time for an Emu War.
+
+Pl0x upload your coolest ROMs, here is mine :>.
+
+Figure 1: Australian man wrestling a dead emu
+
+Download:
+Emu War-35eccd2af489ec05.tar.xz (495.9 KiB)
+
+Connection:
+http://78.47.138.71:65000/

@@ -1,0 +1,14 @@
+Description:
+May Fortuna shine upon you!
+
+(Flag filename is randomized.)
+
+For those who — unlike us — do not happen to be experts in cheap Bavarian beers:
+
+a bottle of “Fortuna Hell”
+
+Download:
+fortuna_hell-21b640030527ba9d.tar.xz (472 Bytes)
+
+Connection:
+nc 78.47.32.120 6666

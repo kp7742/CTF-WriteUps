@@ -1,0 +1,10 @@
+Description:
+We proudly present: Code Execution as a Service (CEaaS), now on x86-64!
+
+(Flag filename is randomized.)
+
+Download:
+splitcode-6dab0bbeff960fb7.tar.xz (2.1 KiB)
+
+Connection:
+nc 78.46.163.223 1336

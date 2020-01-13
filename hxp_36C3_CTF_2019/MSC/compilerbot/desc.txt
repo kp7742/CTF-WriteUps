@@ -1,0 +1,10 @@
+Description:
+If Compiler Explorer is too bloated for you, you can always rely on our excellent compiler bot to tell you whether you screwed up while coding your latest exploit.
+
+And since we never actually run your code, there’s no way for you to hack it!
+
+Download:
+compilerbot-f64128acb63c6bbe.tar.xz (10.9 KiB)
+
+Connection:
+nc 88.198.154.157 8011

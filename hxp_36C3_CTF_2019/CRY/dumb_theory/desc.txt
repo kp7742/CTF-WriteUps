@@ -1,0 +1,8 @@
+Description:
+Three is much less than four, so this one should be easy, right?
+
+Download:
+dumb_theory-e9d4d8aa6fbca06b.tar.xz (1.2 KiB)
+
+Connection:
+nc 78.46.241.102 3333

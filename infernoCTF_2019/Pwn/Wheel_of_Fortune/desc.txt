@@ -1,0 +1,5 @@
+The wheel of fortune tells your fortune...
+
+nc 130.211.214.112 1337
+
+Author : M30W

@@ -1,0 +1,1 @@
+password="AAA"&username=foo' UNION SELECT "AAA" as password FROM admins WHERE '1' = '1

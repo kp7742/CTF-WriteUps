@@ -1,0 +1,6 @@
+I hate this thing. This rabbit double crossed me.
+
+Flag format: infernoCTF{flag}
+
+author: SVM
+

@@ -1,0 +1,7 @@
+I got access to a M30W Workstation that provides file download service, but only authenticated users are allowed to use it. I also captured a login token while eavesdropping connections to M30W Workstation. However, the login token seemed completely useless. Can you help me login and steal the flag?
+
+Note : flag is at /home/M30W/flag
+
+https://130.211.214.112:18002/cgi-bin/M30W_Workstation.cgi
+
+Author : M30W

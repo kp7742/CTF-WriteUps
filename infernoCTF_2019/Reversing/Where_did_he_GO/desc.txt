@@ -1,0 +1,3 @@
+Get Set GO...
+
+Flag Format: infernoCTF{#string_here}

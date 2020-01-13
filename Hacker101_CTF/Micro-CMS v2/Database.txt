@@ -1,0 +1,10 @@
+-level2
+	-admins
+		-id(1)
+		-username(marget)
+		-password(shaun)
+	-pages
+		-id(1,2,3)
+		-public
+		-title
+		-body

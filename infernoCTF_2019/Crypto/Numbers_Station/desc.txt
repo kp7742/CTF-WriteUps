@@ -1,0 +1,2 @@
+We've intercepted this numbers station radio broadcast. Can you use the OTP '01878 84526 19270 63010 00102 09908 38933 18141 02852 91666 57368' and the key 'ctf wins' to decode the flag.
+

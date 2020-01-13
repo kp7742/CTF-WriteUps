@@ -1,0 +1,10 @@
+Array String: 84a5a2af8eb53473a4a2efb3dafa82df
+
+every 8 is replaced with a 0
+
+Our MD5 Hash: 04a5a2af0eb53473a4a2efb3dafa02df
+
+Username: m&m
+Password: mockingbird78209
+
+infernoCTF{m&m:mockingbird78209}

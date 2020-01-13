@@ -1,0 +1,6 @@
+Remote Crashed Craft Computer Console = RC4
+
+Head text in image written in https://sites.google.com/site/lostsymbolproject/masonic-cipher
+Key= masonic
+
+infernoCTF{5tr34ms_0f_Z3r0s_4nd_0n35}

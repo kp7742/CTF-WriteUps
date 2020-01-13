@@ -1,0 +1,14 @@
+Description:
+Damn hxp!
+They cranked up the security requirements again.
+Now every user needs to use a “hxp token” to retrieve flags.
+
+At least I captured some traffic of a user setting up a token.
+
+Can you help me getting the flag?
+
+Download:
+token of hxp-c15e752ed9f6d485.tar.xz (22.2 KiB)
+
+Connection:
+nc 88.198.154.151 7000

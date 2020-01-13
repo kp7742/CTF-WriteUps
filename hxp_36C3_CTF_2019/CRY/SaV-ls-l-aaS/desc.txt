@@ -1,0 +1,10 @@
+Description:
+For your entertainment, we also provide you with some lovely music by a German rapper called Kool-SaV-aaS to listen to while working on this challenge.
+
+(If it’s HTTP then it’s web.)
+
+Download:
+SaV-ls-l-aaS-1a56bcc537c44485.tar.xz (12.3 KiB)
+
+Connection:
+url='http://78.47.240.226:60601' && ip=$(curl -s "$url/ip") && sig=$(curl -s -d "cmd=ls -l&ip=$ip" "$url/sign") && curl --data-urlencode "signature=$sig" "$url/exec"

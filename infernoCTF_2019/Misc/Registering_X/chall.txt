@@ -1,0 +1,3 @@
+Here's a regex 4 u. Match it if you can...
+
+infernoCTF{.( ?<=H){21}.[a-z]( ?<=\+a){1024}[a-z][a-j]( ?<!([a-u]|[w-z])(j|[a-h])).{2,64}( ?<!\S){255}n.{2}( ?<=\s)g_fUn\W( ?<=[A-z])}( ?<=\..{14})( ?<=^.{33})

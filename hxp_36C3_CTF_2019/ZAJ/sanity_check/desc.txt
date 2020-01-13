@@ -1,0 +1,7 @@
+Description:
+Nowadays CTFs are too hard ._.!
+
+Ready for the CTF?
+
+Connection:
+nc 79.13.7.52 15732

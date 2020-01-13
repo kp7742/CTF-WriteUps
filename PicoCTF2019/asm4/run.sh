@@ -1,0 +1,1 @@
+gcc -masm=intel -m32 main.c -o main

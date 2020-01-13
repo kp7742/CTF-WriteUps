@@ -1,0 +1,8 @@
+Description:
+While looking for scripts to reuse from last year hxp CTF, we found this service running on one of our servers. This service concats hxp flags for easier shipment. Because hxp produces so much flags one dedicated server running only this script was necessary.
+
+Download:
+flag concat-5de44b85501c41df.tar.xz (12.9 KiB)
+
+Connection:
+nc 78.47.126.177 7777

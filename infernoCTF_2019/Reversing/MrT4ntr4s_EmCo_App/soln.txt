@@ -1,0 +1,7 @@
+use python-exe-unpacker and extract pyc
+
+Change header of emco to 03 F3 0D 0A 00 00 00 00
+
+use uncompyle6 for emco.pyc
+
+infernoCTF{w04h_3ncrypt3d_qr_d4yumnnn}

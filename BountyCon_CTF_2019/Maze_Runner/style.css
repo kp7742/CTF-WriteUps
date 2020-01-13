@@ -1,0 +1,428 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  width: 100vw;
+}
+
+#hold {
+  height: 1px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  width: 1px;
+}
+#hold main {
+  height: 300px;
+  left: -250px;
+  position: absolute;
+  top: -150px;
+  width: 500px;
+}
+#hold main i {
+  background: #333;
+  box-shadow: 2px 2px 5px rgba(51, 51, 51, 0.1);
+  display: block;
+  height: 30px;
+  position: absolute;
+  left: -3px;
+  top: -3px;
+  transition: background 0.2s, width 0.5s, height 0.8s;
+  width: 40px;
+  z-index: 1;
+}
+#hold main i:nth-child(4),
+#hold main i:nth-child(6) {
+  left: auto;
+  right: -3px;
+}
+#hold main i:nth-child(5),
+#hold main i:nth-child(6) {
+  top: auto;
+  bottom: -3px;
+}
+#hold main i:nth-child(6)::after {
+  color: #ddd;
+  content: "maru ver. 1.3.2\Asecure protocol\A 0xdead1337";
+  display: block;
+  font-family: monospace;
+  font-size: 8px;
+  font-style: normal;
+  right: -70px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  transition: opacity 0.9s;
+  width: 100px;
+}
+#hold main .code {
+  background: #fff;
+  color: #ddd;
+  font-family: monospace;
+  font-size: 13px;
+  height: 100%;
+  letter-spacing: 8.3px;
+  line-height: 0.81;
+  padding: 8px 4px;
+  position: relative;
+  width: 100%;
+  white-space: pre;
+  z-index: 20;
+  transition: color 0.9s;
+}
+#hold main .code b.c-0 {
+  opacity: 0.2;
+}
+#hold main .code b.c-1 {
+  opacity: 0.20842;
+}
+#hold main .code b.c-2 {
+  opacity: 0.21684;
+}
+#hold main .code b.c-3 {
+  opacity: 0.22526;
+}
+#hold main .code b.c-4 {
+  opacity: 0.23368;
+}
+#hold main .code b.c-5 {
+  opacity: 0.24211;
+}
+#hold main .code b.c-6 {
+  opacity: 0.25053;
+}
+#hold main .code b.c-7 {
+  opacity: 0.25895;
+}
+#hold main .code b.c-8 {
+  opacity: 0.26737;
+}
+#hold main .code b.c-9 {
+  opacity: 0.27579;
+}
+#hold main .code b.c-10 {
+  opacity: 0.28421;
+}
+#hold main .code b.c-11 {
+  opacity: 0.29263;
+}
+#hold main .code b.c-12 {
+  opacity: 0.30105;
+}
+#hold main .code b.c-13 {
+  opacity: 0.30947;
+}
+#hold main .code b.c-14 {
+  opacity: 0.31789;
+}
+#hold main .code b.c-15 {
+  opacity: 0.32632;
+}
+#hold main .code b.c-16 {
+  opacity: 0.33474;
+}
+#hold main .code b.c-17 {
+  opacity: 0.34316;
+}
+#hold main .code b.c-18 {
+  opacity: 0.35158;
+}
+#hold main .code b.c-19 {
+  opacity: 0.36;
+}
+#hold main .code b.c-20 {
+  opacity: 0.36842;
+}
+#hold main .code b.c-21 {
+  opacity: 0.37684;
+}
+#hold main .code b.c-22 {
+  opacity: 0.38526;
+}
+#hold main .code b.c-23 {
+  opacity: 0.39368;
+}
+#hold main .code b.c-24 {
+  opacity: 0.40211;
+}
+#hold main .code b.c-25 {
+  opacity: 0.41053;
+}
+#hold main .code b.c-26 {
+  opacity: 0.41895;
+}
+#hold main .code b.c-27 {
+  opacity: 0.42737;
+}
+#hold main .code b.c-28 {
+  opacity: 0.43579;
+}
+#hold main .code b.c-29 {
+  opacity: 0.44421;
+}
+#hold main .code b.c-30 {
+  opacity: 0.45263;
+}
+#hold main .code b.c-31 {
+  opacity: 0.46105;
+}
+#hold main .code b.c-32 {
+  opacity: 0.46947;
+}
+#hold main .code b.c-33 {
+  opacity: 0.47789;
+}
+#hold main .code b.c-34 {
+  opacity: 0.48632;
+}
+#hold main .code b.c-35 {
+  opacity: 0.49474;
+}
+#hold main .code b.c-36 {
+  opacity: 0.50316;
+}
+#hold main .code b.c-37 {
+  opacity: 0.51158;
+}
+#hold main .code b.c-38 {
+  opacity: 0.52;
+}
+#hold main .code b.c-39 {
+  opacity: 0.52842;
+}
+#hold main .code b.c-40 {
+  opacity: 0.53684;
+}
+#hold main .code b.c-41 {
+  opacity: 0.54526;
+}
+#hold main .code b.c-42 {
+  opacity: 0.55368;
+}
+#hold main .code b.c-43 {
+  opacity: 0.56211;
+}
+#hold main .code b.c-44 {
+  opacity: 0.57053;
+}
+#hold main .code b.c-45 {
+  opacity: 0.57895;
+}
+#hold main .code b.c-46 {
+  opacity: 0.58737;
+}
+#hold main .code b.c-47 {
+  opacity: 0.59579;
+}
+#hold main .code b.c-48 {
+  opacity: 0.60421;
+}
+#hold main .code b.c-49 {
+  opacity: 0.61263;
+}
+#hold main .code b.c-50 {
+  opacity: 0.62105;
+}
+#hold main .code b.c-51 {
+  opacity: 0.62947;
+}
+#hold main .code b.c-52 {
+  opacity: 0.63789;
+}
+#hold main .code b.c-53 {
+  opacity: 0.64632;
+}
+#hold main .code b.c-54 {
+  opacity: 0.65474;
+}
+#hold main .code b.c-55 {
+  opacity: 0.66316;
+}
+#hold main .code b.c-56 {
+  opacity: 0.67158;
+}
+#hold main .code b.c-57 {
+  opacity: 0.68;
+}
+#hold main .code b.c-58 {
+  opacity: 0.68842;
+}
+#hold main .code b.c-59 {
+  opacity: 0.69684;
+}
+#hold main .code b.c-60 {
+  opacity: 0.70526;
+}
+#hold main .code b.c-61 {
+  opacity: 0.71368;
+}
+#hold main .code b.c-62 {
+  opacity: 0.72211;
+}
+#hold main .code b.c-63 {
+  opacity: 0.73053;
+}
+#hold main .code b.c-64 {
+  opacity: 0.73895;
+}
+#hold main .code b.c-65 {
+  opacity: 0.74737;
+}
+#hold main .code b.c-66 {
+  opacity: 0.75579;
+}
+#hold main .code b.c-67 {
+  opacity: 0.76421;
+}
+#hold main .code b.c-68 {
+  opacity: 0.77263;
+}
+#hold main .code b.c-69 {
+  opacity: 0.78105;
+}
+#hold main .code b.c-70 {
+  opacity: 0.78947;
+}
+#hold main .code b.c-71 {
+  opacity: 0.79789;
+}
+#hold main .code b.c-72 {
+  opacity: 0.80632;
+}
+#hold main .code b.c-73 {
+  opacity: 0.81474;
+}
+#hold main .code b.c-74 {
+  opacity: 0.82316;
+}
+#hold main .code b.c-75 {
+  opacity: 0.83158;
+}
+#hold main .code b.c-76 {
+  opacity: 0.84;
+}
+#hold main .code b.c-77 {
+  opacity: 0.84842;
+}
+#hold main .code b.c-78 {
+  opacity: 0.85684;
+}
+#hold main .code b.c-79 {
+  opacity: 0.86526;
+}
+#hold main .code b.c-80 {
+  opacity: 0.87368;
+}
+#hold main .code b.c-81 {
+  opacity: 0.88211;
+}
+#hold main .code b.c-82 {
+  opacity: 0.89053;
+}
+#hold main .code b.c-83 {
+  opacity: 0.89895;
+}
+#hold main .code b.c-84 {
+  opacity: 0.90737;
+}
+#hold main .code b.c-85 {
+  opacity: 0.91579;
+}
+#hold main .code b.c-86 {
+  opacity: 0.92421;
+}
+#hold main .code b.c-87 {
+  opacity: 0.93263;
+}
+#hold main .code b.c-88 {
+  opacity: 0.94105;
+}
+#hold main .code b.c-89 {
+  opacity: 0.94947;
+}
+#hold main .code b.c-90 {
+  opacity: 0.95789;
+}
+#hold main .code b.c-91 {
+  opacity: 0.96632;
+}
+#hold main .code b.c-92 {
+  opacity: 0.97474;
+}
+#hold main .code b.c-93 {
+  opacity: 0.98316;
+}
+#hold main .code b.c-94 {
+  opacity: 0.99158;
+}
+#hold main .code b.c-95 {
+  opacity: 1;
+}
+#hold main input {
+  background: #fff;
+  background: linear-gradient(180deg, #fafafa 0%, white 100%);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 1px 2px 5px rgba(51, 51, 51, 0.2);
+  color: #333;
+  font-family: monospace;
+  font-size: 16px;
+  height: 38px;
+  left: 100px;
+  outline: none;
+  padding: 0 0 0 4px;
+  position: absolute;
+  top: 120px;
+  transition: border 0.2s;
+  width: 300px;
+  z-index: 42;
+}
+#hold main input:focus {
+  border: 1px solid #999;
+}
+#hold main button {
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  color: #333;
+  font-family: monospace;
+  font-size: 10px;
+  height: 30px;
+  padding: 0 4px;
+  position: absolute;
+  right: 104px;
+  top: 124px;
+  transition: background 0.2s;
+  z-index: 44;
+}
+#hold main button:hover {
+  background: #ddd;
+}
+#hold main button:active {
+  background: #ccc;
+}
+#hold main:not(.done) input:focus ~ i {
+  background: #777;
+  height: 3px;
+  width: 50px;
+}
+#hold main.done input {
+  background: linear-gradient(180deg, #e6ffe6 0%, white 100%);
+  border: 1px solid #393;
+}
+#hold main.done .code {
+  color: rgba(51, 153, 51, 0.5);
+}
+#hold main.done i {
+  background: #393;
+  height: 40px;
+  width: 3px;
+}
+#hold main.done i::after {
+  opacity: 0;
+}

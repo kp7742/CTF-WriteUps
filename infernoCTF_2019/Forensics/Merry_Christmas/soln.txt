@@ -1,0 +1,3 @@
+Fixed GIF Header: 47 49 46 38 39 61(GIF89aS)
+
+infernoCTF{M3RRy_ChR1stmAs}

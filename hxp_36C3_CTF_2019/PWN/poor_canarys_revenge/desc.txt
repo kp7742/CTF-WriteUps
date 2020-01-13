@@ -1,0 +1,10 @@
+Description:
+Revenge time: Please hack.
+
+Note: For reasons semi-beyond our control, the binary sometimes crashes when you connect. Please just retry if this happens. Sorry for the inconvenience!
+
+Download:
+poor canary’s revenge-b81a42dbe2f03e70.tar.xz (218.3 KiB)
+
+Connection:
+nc 78.46.187.186 7001

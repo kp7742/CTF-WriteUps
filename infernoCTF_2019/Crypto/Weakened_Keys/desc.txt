@@ -1,0 +1,7 @@
+Local politicians and their anti crypto opinions have forced us to dumb down our AES encryption. It's OK because we think we can still use these weakened keys and still encrypt our message securely by encrypting it twice. Have a look at our code and see what you think.
+
+Test = 'Double AES encryption for twice the strength' encrypted Test = yNmnPyqZnLX9HnqgIuZS/abbO+B6hkZMUiq3RZv3WMuATLecWWaXEB44ncqR9MvU
+
+flag = nv092LSPpsKG/7xHGjUax2iC4e8RKxNpMe6XBAxyKxI=
+
+Author : alphachaos

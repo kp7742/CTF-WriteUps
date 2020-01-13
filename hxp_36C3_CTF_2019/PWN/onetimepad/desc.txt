@@ -1,0 +1,11 @@
+Description:
+onetimepad
+I always wondered how old secret agent movies would translate into current time. Listening to number stations, hastily scribbling letters onto a sheet of paper, reading off your orders, and then the paper self-igniting just as you finish reading…
+
+I mean, who even has pen and paper with them anymore? Well, some Non-Specific Agency (NSA) moved the self-igniting paper into the cloud and called them “One Time Pads”, as they are proven to be secure.
+
+Download:
+onetimepad-3dacecfee0c81326.tar.xz (13.7 KiB)
+
+Connection:
+nc 88.198.154.140 31336

@@ -1,0 +1,31 @@
+Description:
+Time for hxp’s first hardware challenge :>.
+
+important meme
+
+We proudly present the Totally Not BadUSB Stick:
+
+Totally Not BadUSB Stick
+
+If you are playing at the 36C3, please come to the CTF Orga assembly to fetch your own hackable hardware. You may have one device per team.
+
+Edit: Updated challenge archive (added pow-solver.cpp, no other changes).
+
+FAQ:
+Can I solve the challenge without being physically present at the 36C3?
+
+Yes, it can be fully solved from the internet.
+Can the flag be extracted from the handed out hardware?
+
+No, everyone has to pwn the stick remotely.
+Can I keep the stick after the CTF?
+
+Yes! We can even restore its original functionality if you like.
+How to hack?
+
+Please hack.
+Download:
+Totally not BadUSB-20bad6c24c5d9c72.tar.xz (75.9 KiB)
+
+Connection:
+nc 78.46.200.223 2201

@@ -1,0 +1,8 @@
+Description:
+Finally (again), a minimalistic, open-source file hosting solution.
+
+Download:
+file magician-3ace41f3b0282a70.tar.xz (2.1 KiB)
+
+Connection:
+http://78.47.152.131:8000/

@@ -1,0 +1,12 @@
+Description:
+
+* Hint: Remember, md15 is a reversing challenge. hxp recommends you stop reading crypto papers. *
+
+After all this recent 0daying within the CTF community we figured eclipsing a standard deprecated hash function might be appropriate. To comply with good scientific practice, the respective research paper is currently being peer-reviewed, and therefore secret. However, according to the PC, hyping the topic and publishing the abstract is okay-ish, so here you go:
+
+MD5 Preimage Attack
+
+Clearly, 3 x MD5 == MD15, right?
+
+Download:
+md15-16aad16e8564b324.tar.xz (9.9 KiB)

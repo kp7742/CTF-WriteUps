@@ -1,0 +1,5 @@
+A simple AI to greet the customers :chuckles:
+
+nc 130.211.214.112 18016
+
+Author : M30W
