@@ -2,7 +2,7 @@
 
 Alien Message:
 
-Base64 -> Png -> QR
+Base64 -> PNG -> QR
 
 Hello Earthians, Nice to meet you. A small gift for you: SAKLFJLDF39878JH
 
